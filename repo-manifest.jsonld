@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/indico-operator/commit/9bc81f9c4b56e8aa84523ff5a1f5e29131aeb33e",
       "git:hexsha": "9bc81f9c4b56e8aa84523ff5a1f5e29131aeb33e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev359"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev359",
+      "repolex:parsedAt": "2026-11-08T04:31:34.083074+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/indico-operator/commit/f576c8b982f496bf546ab7299c6f55c14df811e9",
