@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "indico-operator",
+  "versions": [
+    {
+      "commit": "9bc81f9c4b56e8aa84523ff5a1f5e29131aeb33e",
+      "tag": "rev359",
+      "parsed_at": "2026-11-08T04:31:34.084964+00:00"
+    }
+  ]
+}
